@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+venv/
+
+# Poetry
+# (poetry.lock SHOULD be committed — see below)
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables / secrets
+.env
+.env.*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
