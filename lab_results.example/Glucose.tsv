@@ -1,6 +1,6 @@
 grouping	when_date	value	test_name	test_range_info	is_in_range	attachment_cnt	attachment_url	test_note
-Glucose	2017-05-12 12:13:00	11.1	Glucose	3.6-11.0	True	0		
-Glucose	2018-05-12 12:13:00	3.5	Glucose	3.6-11.0	True	0		
+Glucose	2017-05-12 12:13:00	11.1	Glucose	3.6-11.0	False	0		
+Glucose	2018-05-12 12:13:00	3.5	Glucose	3.6-11.0	False	0		
 Glucose	2019-05-12 12:13:00	5.3	Glucose	3.6-11.0	True	0		
 Glucose	2021-05-12 12:13:00	5.3	Glucose	3.6-11.0	True	0		
 Glucose	2022-05-12 12:13:00	4.0	Glucose	3.6-11.0	True	0		

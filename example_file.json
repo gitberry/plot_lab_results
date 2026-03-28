@@ -1,6 +1,6 @@
 [
-{"group": [{"groupName": "Glucose","results": [{"whenDate": "May 12, 2017 12:13 PM","values": {"value": "11.1","rangeDisplayText": "3.6-11.0"},"clinicalCode": {"text": "Glucose"}}]}]},
-{"group": [{"groupName": "Glucose","results": [{"whenDate": "May 12, 2018 12:13 PM","values": {"value": "3.5","rangeDisplayText": "3.6-11.0"},"clinicalCode": {"text": "Glucose"}}]}]},
+{"group": [{"groupName": "Glucose","results": [{"whenDate": "May 12, 2017 12:13 PM","values": {"value": "11.1","rangeDisplayText": "3.6-11.0","isValueInRange": false},"clinicalCode": {"text": "Glucose"}}]}]},
+{"group": [{"groupName": "Glucose","results": [{"whenDate": "May 12, 2018 12:13 PM","values": {"value": "3.5","rangeDisplayText": "3.6-11.0","isValueInRange": false},"clinicalCode": {"text": "Glucose"}}]}]},
 {"group": [{"groupName": "Glucose","results": [{"whenDate": "May 12, 2019 12:13 PM","values": {"value": "5.3","rangeDisplayText": "3.6-11.0"},"clinicalCode": {"text": "Glucose"}}]}]},
 {"group": [{"groupName": "Glucose","results": [{"whenDate": "May 12, 2021 12:13 PM","values": {"value": "5.3","rangeDisplayText": "3.6-11.0"},"clinicalCode": {"text": "Glucose"}}]}]},
 {"group": [{"groupName": "Glucose","results": [{"whenDate": "May 12, 2022 12:13 PM","values": {"value": "4.0","rangeDisplayText": "3.6-11.0"},"clinicalCode": {"text": "Glucose"}}]}]},
