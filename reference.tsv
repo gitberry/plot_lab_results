@@ -1,0 +1,55 @@
+data_test_name	functional_equivalent	test_name	safe_filename	test_abbreviation	common_clinical_uses	typical_reference_range
+ABO & Rh Group & Antibody Screen	ABO & Rh Group & Antibody Screen	ABO & Rh Group & Antibody Screen	ABORhAbScreen	ABO/Rh + Ab Screen	Blood typing; transfusion compatibility; hemolytic disease	Type-based (A/B/AB/O; Rh +/-; antibodies none)
+ABO and Rh Group	ABO and Rh Group	ABO and Rh Group	ABORh	ABO/Rh	Blood typing for transfusion/pregnancy	Type-based (A/B/AB/O; Rh +/-)
+Alanine Aminotransferase (ALT)	Alanine Aminotransferase (ALT)	Alanine Aminotransferase (ALT)	ALT	ALT	Liver injury (hepatitis, fatty liver)	7–56 U/L
+Albumin; BCP	Albumin; BCP	Albumin; BCP	Albumin	Albumin	Nutritional status; liver disease; nephrotic syndrome	35–50 g/L
+Albumin/Creatinine Ratio Panel; Urine	Albumin/Creatinine Ratio Panel; Urine	Albumin/Creatinine Ratio Panel; Urine	ACR	ACR	Diabetic nephropathy; kidney damage	<3 mg/mmol
+Alkaline Phosphatase (ALP)	Alkaline Phosphatase (ALP)	Alkaline Phosphatase (ALP)	ALP	ALP	Cholestasis; bone disease	44–147 U/L
+Anti-Nuclear Antibody Panel	Anti-Nuclear Antibody Panel	Anti-Nuclear Antibody Panel	ANA	ANA	Autoimmune diseases (SLE, lupus)	Negative
+APTT	APTT	APTT	aPTT	aPTT	Clotting disorders; heparin monitoring	25–35 sec
+Aspartate Aminotransferase (AST)	Aspartate Aminotransferase (AST)	Aspartate Aminotransferase (AST)	AST	AST	Liver injury; muscle damage	10–40 U/L
+Bilirubin, Total	Bilirubin, Total	Bilirubin, Total	Totalbili	Total bili	Jaundice; liver disease	5–21 µmol/L
+C Reactive Protein; High Sensitivity	C Reactive Protein; High Sensitivity	C Reactive Protein; High Sensitivity	hsCRP	hs-CRP	Inflammation; cardiovascular risk	<3 mg/L
+Calcium	Calcium	Calcium	Ca	Ca	Bone disease; parathyroid disorders	2.1–2.6 mmol/L
+Cardiac Panel	Cardiac Panel	Cardiac Panel	Cardiacenzymes	Cardiac enzymes	ACS/MI (troponin, CK-MB)	Varies by component
+CBC & Auto Differential	CBC & Auto Differential	CBC & Auto Differential	CBCwdiff	CBC w/ diff	Infection; anemia; leukemia	Varies (see CBC)
+CBC & Differential	CBC & Differential	CBC & Differential	CBCwdiff	CBC w/ diff	Infection; anemia; leukemia	Varies
+Creatine Kinase	Creatine Kinase	Creatine Kinase	CK	CK	Muscle injury; rhabdomyolysis	30–200 U/L
+Creatinine	Creatinine	Creatinine	Cr	Cr	Renal function	60–110 µmol/L
+Creatinine & Glomerular Filtration Rate Predicted Panel	Creatinine & Glomerular Filtration Rate Predicted Panel	Creatinine & GFR Panel	CreGFR	Cr + eGFR	Kidney disease	eGFR >90 mL/min
+Electrolytes	Electrolytes	Electrolytes	NaKClCO2	Na/K/Cl/CO2	Fluid balance; renal; acid-base	Na 135–145 mmol/L etc.
+Erythrocyte Sedimentation Rate (ESR)	Erythrocyte Sedimentation Rate (ESR)	Erythrocyte Sedimentation Rate (ESR)	ESR	ESR	Inflammation; autoimmune disease	<20 mm/hr
+Gamma Glutamyl Transferase (GGT)	Gamma Glutamyl Transferase (GGT)	Gamma Glutamyl Transferase (GGT)	GGT	GGT	Alcohol use; liver disease	9–48 U/L
+Glomerular Filtration Rate/1.73 Sq M Predicted (CKD-EPI)	Glomerular Filtration Rate/1.73 Sq M Predicted (CKD-EPI)	GFR (CKD-EPI)	eGFR	eGFR	Kidney function staging	>90 normal
+Glomerular Filtration Rate/1.73 Sq M Predicted (MDRD)	Glomerular Filtration Rate/1.73 Sq M Predicted (MDRD)	GFR (MDRD)	eGFR	eGFR	Kidney function staging	>90 normal
+Glucose	Glucose	Glucose	Glucose	Glucose	Diabetes; hypoglycemia	3.9–7.8 mmol/L
+Glucose Fasting	Glucose Fasting	Glucose Fasting	FBS	FBS	Diabetes diagnosis	3.9–5.5 mmol/L
+HbA1c/Total Hemoglobin	HbA1c/Total Hemoglobin	HbA1c/Total Hemoglobin	HbA1c	HbA1c	Chronic glucose control	<5.7%
+Hepatic Function Panel	Hepatic Function Panel	Hepatic Function Panel	LFTs	LFTs	Liver disease	Varies (ALT, AST, ALP, bili)
+Iron & Iron Binding Capacity Panel	Iron & Iron Binding Capacity Panel	Iron & Iron Binding Capacity Panel	IronTIBC	Iron/TIBC	Iron deficiency; anemia	Iron 10–30 µmol/L
+Lactate Dehydrogenase (LD); Lactate to Pyruvate	Lactate Dehydrogenase (LD); Lactate to Pyruvate	Lactate Dehydrogenase (LD)	LDH	LDH	Tissue damage; hemolysis	140–280 U/L
+Lipid Profile	Lipid Profile	Lipid Profile	Lipids	Lipids	Cardiovascular risk	LDL <3.5 mmol/L
+Magnesium	Magnesium	Magnesium	Mg	Mg	Electrolyte imbalance	0.7–1.0 mmol/L
+Microscopic; Nail; KOH Preparation	Microscopic; Nail; KOH Preparation	Microscopic; Nail; KOH Prep	KOH	KOH	Fungal infection	Negative
+MRSA; Culture	MRSA; Culture	MRSA; Culture	MRSAculture	MRSA culture	MRSA infection	Negative
+Natriuretic Peptide B Prohormone N-Terminal (NTProBNP)	Natriuretic Peptide B Prohormone N-Terminal (NTProBNP)	NT-proBNP	NTproBNP	NT-proBNP	Heart failure	<125 pg/mL (<75 yrs)
+Neurological Panel	Neurological Panel	Neurological Panel	Neurolabs	Neuro labs	Varies (B12, electrolytes)	Varies
+Occult Blood (FIT); Stool; Automated	Occult Blood (FIT); Stool; Automated	Occult Blood (FIT); Stool	FIT	FIT	Colon cancer screening	Negative
+Phosphate	Phosphate	Phosphate	PO4	PO4	Bone; renal disease	0.8–1.5 mmol/L
+Prostate Specific Ag (PSA) Panel	Prostate Specific Ag (PSA) Panel	PSA Panel	PSA	PSA	Prostate cancer	<4.0 ng/mL
+Prostate Specific Ag (PSA); CMIA	Prostate Specific Ag (PSA) Panel	PSA (CMIA)	PSA	PSA	Prostate cancer	<4.0 ng/mL
+Prostate Specific Ag (PSA); IA	Prostate Specific Ag (PSA) Panel	PSA (IA)	PSA	PSA	Prostate cancer	<4.0 ng/mL
+Protein	Protein	Protein	Totalprotein	Total protein	Nutrition; liver/kidney disease	60–80 g/L
+PT & APTT Panel	PT & APTT Panel	PT & APTT Panel	Coagpanel	Coag panel	Bleeding disorders	PT 11–13.5 sec
+PT Panel	PT Panel	PT Panel	PTINR	PT/INR	Warfarin monitoring	INR 0.8–1.2
+Red Blood Cells	Red Blood Cells	Red Blood Cells	RBCcount	RBC count	Anemia; polycythemia	4.5–6.0 x10^12/L
+Renal Function Panel	Renal Function Panel	Renal Function Panel	RFP	RFP	Kidney disease	Varies
+Rheumatoid Factor	Rheumatoid Factor	Rheumatoid Factor	RF	RF	Rheumatoid arthritis	<20 IU/mL
+SARS Coronavirus 2 RNA; Respiratory; PCR/NAAT	SARS Coronavirus 2 RNA; Respiratory; PCR/NAAT	SARS-CoV-2 RNA PCR	COVIDPCR	COVID PCR	COVID infection	Negative
+Testosterone	Testosterone	Testosterone	Testosterone	Testosterone	Hypogonadism	10–35 nmol/L (male)
+Troponin I Cardiac	Troponin I Cardiac	Troponin I Cardiac	TroponinI	Troponin I	Myocardial infarction	<0.04 ng/mL
+Troponin T Cardiac; High Sensitivity	Troponin T Cardiac; High Sensitivity	Troponin T Cardiac (High Sensitivity)	hsTnT	hs-TnT	Myocardial infarction	<14 ng/L
+TSH	TSH	TSH	TSH	TSH	Thyroid disorders	0.4–4.0 mIU/L
+Urate	Urate	Urate	Uricacid	Uric acid	Gout	140–420 µmol/L
+Urea	Urea	Urea	BUN	BUN	Urea; Renal function	2.5–7.1 mmol/L
+Vitamin B12	Vitamin B12	Vitamin B12	B12	B12	Anemia; neuropathy	200–900 pg/mL

@@ -1,0 +1,20 @@
+[project]
+name = "plot-lab-results"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "C. Rensberry",email = "gitberry@northberry.ca"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas (>=3.0.1,<4.0.0)",
+    "matplotlib (>=3.10.8,<4.0.0)",
+    "seaborn (>=0.13.2,<0.14.0)",
+    "pydantic (>=2.12.5,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
